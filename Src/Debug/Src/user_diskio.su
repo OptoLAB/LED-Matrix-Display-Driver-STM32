@@ -1,0 +1,8 @@
+user_diskio.c:459:9:USER_status	0	static
+user_diskio.c:267:5:rcvr_datablock	12	static
+user_diskio.c:296:5:xmit_datablock.part.2	4	static
+user_diskio.c:324:6:send_cmd	16	static
+user_diskio.c:401:9:USER_initialize	32	static
+user_diskio.c:478:9:USER_read	32	static
+user_diskio.c:567:9:USER_ioctl	40	static
+user_diskio.c:521:9:USER_write	32	static
