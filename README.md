@@ -12,4 +12,4 @@ LED Matrix Display Library on [github](https://github.com/OptoLAB/LED-Matrix-Dis
 
 More info on [OptoLAB](http://www.optolab.ftn.uns.ac.rs/index.php/education/project-base/242-led-matrix-display-library-examples)
 
-Demo video on [youtube](https://)
+Demo video on [youtube](https://www.youtube.com/watch?v=5Obz87ZCj9I)
